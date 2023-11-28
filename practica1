@@ -1,22 +1,18 @@
-string correo;
-int cor;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica</title>
+</head>
+<body>
+    
+</body>
+<script>
 
-Escribir ("Bienvenido");
-Escribir ("Escribe tu correo electronico"):
-Leer correo;
-If correo contiene @;
-cor=1
-  switch cor=1;
-   {case 1 : correo contiene ".com"
-   Escribir ("Correo valido");
-   break:
-   case 2 : correo contiene ".com.mx"
-   Escribir ("Correo valido");
-   break:
-   case 3 : correo contiene ".com.mx"
-   Escribir ("Correo valido");
-   default : 
-   Escribir ("correo invalido"):
-   break:}
-else
-Escribir ("correo invalido"):
+console.log("BIENVENIDO");
+    
+    
+
+</script>
+</html>
