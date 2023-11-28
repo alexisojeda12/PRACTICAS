@@ -5,19 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practica</title>
 </head>
+
 <body>
     
-</body>
-<script>
-
-console.log("BIENVENIDO");
+<p>BIENVENIDO </p>
     
-    const button = document.querySelector("button");
+<p>Escribe tu correo electronico </p>
 
-button.onclick = function () {
-  let name = prompt("¿Cuál es tu nombre?");
-  alert("¡Hola " + name + ", encantado de verte!");
-};
+    <input type="text" name="correo" size="20"><br><br>
 
+    <script>
+
+    if (correo.includes("@")) {
+        <p>El texto 1 es un correo válido."</p>
+    } else {
+        <p>El texto no es un correo válido </p>
+    } 
+
+</script>
+
+</body>
+
+
+
+</html>
 </script>
 </html>
