@@ -7,7 +7,7 @@ Leer correo;
 If correo contiene @;
 cor=1
   switch cor=1;
-   case 1 : correo contiene ".com"
+   {case 1 : correo contiene ".com"
    Escribir ("Correo valido");
    break:
    case 2 : correo contiene ".com.mx"
@@ -15,7 +15,8 @@ cor=1
    break:
    case 3 : correo contiene ".com.mx"
    Escribir ("Correo valido");
-   break:
-   case
+   default : 
+   Escribir ("correo invalido"):
+   break:}
 else
 Escribir ("correo invalido"):
