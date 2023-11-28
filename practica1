@@ -1,0 +1,21 @@
+string correo;
+int cor;
+
+Escribir ("Bienvenido");
+Escribir ("Escribe tu correo electronico"):
+Leer correo;
+If correo contiene @;
+cor=1
+  switch cor=1;
+   case 1 : correo contiene ".com"
+   Escribir ("Correo valido");
+   break:
+   case 2 : correo contiene ".com.mx"
+   Escribir ("Correo valido");
+   break:
+   case 3 : correo contiene ".com.mx"
+   Escribir ("Correo valido");
+   break:
+   case
+else
+Escribir ("correo invalido"):
