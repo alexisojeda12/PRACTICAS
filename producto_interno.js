@@ -19,3 +19,11 @@ pi=pi+op;
     j++
 }
 console.log("el producto interno es", pi);
+
+if (pi==0){
+console.log("x and y son ortogonales");
+}
+else
+{console.log("x and y no son ortogonales");
+
+}
