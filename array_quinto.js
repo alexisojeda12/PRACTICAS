@@ -1,5 +1,5 @@
 x = prompt("De que dimension es x?:  "); //3
-y = prompt("De que dimension es y?:  "); //3
+y = prompt("De que dimension es y?:  "); //4
 
 let completo = new Array(y);
 
